@@ -19,6 +19,7 @@ My list of things dev and software related.
 ## Images
  - https://github.com/GoogleContainerTools/distroless
  - https://github.com/wolfi-dev/os
+ - https://github.com/felipecrs/dotfiles - Install Docker in WSL config setup via dotfiles
  
 # Training
 
